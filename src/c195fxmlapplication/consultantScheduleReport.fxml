@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195fxmlapplication.ConsultantScheduleReportController">
+   <children>
+      <ComboBox fx:id="consultantBox" layoutX="14.0" layoutY="32.0" prefWidth="150.0" promptText="Choose consultant" />
+      <Button fx:id="confirmButton" layoutX="174.0" layoutY="32.0" mnemonicParsing="false" onAction="#showConsultantReport" text="Confirm consultant choice" />
+      <TableView fx:id="scheduleTable" layoutX="14.0" layoutY="71.0" prefHeight="313.0" prefWidth="569.0">
+        <columns>
+          <TableColumn fx:id="titleColumn" prefWidth="75.0" text="Title" />
+          <TableColumn fx:id="customerColumn" prefWidth="75.0" text="Customer" />
+            <TableColumn fx:id="startColumn" prefWidth="75.0" text="Start" />
+            <TableColumn fx:id="endColumn" prefWidth="75.0" text="End" />
+            <TableColumn fx:id="descColumn" prefWidth="75.0" text="Description" />
+            <TableColumn fx:id="locColumn" prefWidth="75.0" text="Location" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

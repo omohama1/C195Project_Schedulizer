@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="182.0" prefWidth="368.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195fxmlapplication.ReportPrinterController">
+   <children>
+      <Button fx:id="menuButton" layoutX="123.0" layoutY="145.0" mnemonicParsing="false" onAction="#takeBackToMenu" text="Back to main menu" />
+      <ComboBox fx:id="reportChoiceBox" layoutX="14.0" layoutY="38.0" prefWidth="150.0" />
+      <Label fx:id="selectorLabel" layoutX="14.0" layoutY="14.0" prefHeight="17.0" prefWidth="150.0" text="Select report type" />
+      <Button fx:id="reportButton" layoutX="182.0" layoutY="38.0" mnemonicParsing="false" onAction="#fetchReport" prefHeight="25.0" prefWidth="150.0" text="Get that report" />
+   </children>
+</AnchorPane>

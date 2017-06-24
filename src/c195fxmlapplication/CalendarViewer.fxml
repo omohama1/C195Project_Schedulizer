@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="618.0" prefWidth="835.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195fxmlapplication.CalendarViewerController">
+   <children>
+      <Button fx:id="menuButton" layoutX="14.0" layoutY="572.0" mnemonicParsing="false" onAction="#takeBackToMenu" text="Go back to menu" />
+      <TableView fx:id="apptTable" layoutX="21.0" layoutY="60.0" prefHeight="493.0" prefWidth="783.0">
+        <columns>
+          <TableColumn fx:id="dayColumn" prefWidth="100.0" text="Day" />
+            <TableColumn fx:id="custColumn" prefWidth="100.0" text="Customer" />
+            <TableColumn fx:id="startColumn" minWidth="0.0" prefWidth="100.0" text="Start time" />
+            <TableColumn fx:id="endColumn" minWidth="0.0" prefWidth="100.0" text="End time" />
+            <TableColumn fx:id="descColumn" minWidth="0.0" prefWidth="100.0" text="Description" />
+            <TableColumn fx:id="locColumn" minWidth="0.0" prefWidth="100.0" text="Location" />
+          <TableColumn fx:id="titleColumn" prefWidth="100.0" text="Appointment title" />
+        </columns>
+      </TableView>
+      <Button fx:id="viewButton" layoutX="152.0" layoutY="14.0" mnemonicParsing="false" onAction="#printAppointmentsByWeek" text="Show view by week" />
+      <Button fx:id="viewMonthButton" layoutX="10.0" layoutY="14.0" mnemonicParsing="false" onAction="#printAppointmentsByMonth" text="Show view by month" />
+   </children>
+</AnchorPane>

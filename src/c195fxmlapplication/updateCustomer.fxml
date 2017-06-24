@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="customerPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195fxmlapplication.UpdateCustomerController">
+   <children>
+      <TextField fx:id="addressField1" layoutX="194.0" layoutY="152.0" />
+      <TextField fx:id="addressField2" layoutX="194.0" layoutY="192.0" />
+      <Label layoutX="45.0" layoutY="59.0" prefHeight="17.0" prefWidth="130.0" text="Select customer" />
+      <Label layoutX="46.0" layoutY="152.0" prefHeight="17.0" prefWidth="130.0" text="Customer address line 1" />
+      <Label layoutX="44.0" layoutY="192.0" prefHeight="17.0" prefWidth="130.0" text="Customer address line 2" />
+      <Label layoutX="47.0" layoutY="233.0" prefHeight="17.0" prefWidth="130.0" text="Customer city" />
+      <TextField fx:id="cityField" layoutX="194.0" layoutY="233.0" />
+      <TextField fx:id="countryField" layoutX="194.0" layoutY="271.0" />
+      <Label layoutX="47.0" layoutY="271.0" prefHeight="17.0" prefWidth="130.0" text="Customer country" />
+      <Label layoutX="44.0" layoutY="311.0" prefHeight="17.0" prefWidth="130.0" text="Customer postal code" />
+      <TextField fx:id="postalCodeField" layoutX="194.0" layoutY="311.0" />
+      <Button fx:id="backToMenuButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#takeBackToMenu" text="Back to main menu" />
+      <Label fx:id="custPhoneLabel" layoutX="46.0" layoutY="351.0" text="Customer phone" />
+      <TextField fx:id="custPhoneField" layoutX="188.0" layoutY="351.0" />
+      <Button fx:id="updateButton" layoutX="364.0" layoutY="355.0" mnemonicParsing="false" onAction="#updateCustomer" text="Update Customer Info" />
+      <ComboBox fx:id="custNameField" layoutX="188.0" layoutY="55.0" prefWidth="150.0" />
+      <ComboBox fx:id="activeBox" layoutX="356.0" layoutY="148.0" prefWidth="150.0" />
+      <Label fx:id="activeLabel" layoutX="364.0" layoutY="118.0" text="Still active?" />
+      <TextField fx:id="custNameText" layoutX="194.0" layoutY="105.0" />
+      <Label fx:id="custNameLabel" layoutX="49.0" layoutY="109.0" text="Customer name" />
+      <Button fx:id="confirmButton" layoutX="368.0" layoutY="55.0" mnemonicParsing="false" onAction="#confirmCustomer" text="Confirm Customer Selection" />
+   </children>
+</AnchorPane>

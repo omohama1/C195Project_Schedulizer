@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="schedulePane" onDragDetected="#confirmAppointment" prefHeight="510.0" prefWidth="824.0" style="-fx-background-color: AQUA;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195fxmlapplication.ScheduleFormController">
+   <children>
+      <DatePicker fx:id="appointmentDatePicker" layoutX="14.0" layoutY="143.0" />
+      <Label fx:id="dateLabel" layoutX="14.0" layoutY="116.0" prefHeight="17.0" prefWidth="174.0" text="Choose an appointment date" />
+      <Label fx:id="startTimeLabel" layoutX="14.0" layoutY="180.0" prefHeight="17.0" prefWidth="149.0" text="Appointment start time" />
+      <Label fx:id="endTimeLabel" layoutX="15.0" layoutY="234.0" prefHeight="17.0" prefWidth="149.0" text="Appointment end time" />
+      <Label fx:id="locationLabel" layoutX="222.0" layoutY="180.0" prefHeight="17.0" prefWidth="149.0" text="Appointment location" />
+      <Label fx:id="apptDescLabel" layoutX="27.0" layoutY="335.0" prefHeight="17.0" prefWidth="149.0" text="Appointment Description" />
+      <Label fx:id="contactLabel" layoutX="222.0" layoutY="234.0" prefHeight="17.0" prefWidth="149.0" text="Contact" />
+      <TextField fx:id="locationField" layoutX="222.0" layoutY="201.0" />
+      <TextField fx:id="contactField" layoutX="222.0" layoutY="257.0" />
+      <TextField fx:id="descField" layoutX="17.0" layoutY="373.0" prefHeight="85.0" prefWidth="342.0" />
+      <Label fx:id="customerLabel" layoutX="222.0" layoutY="61.0" prefHeight="17.0" prefWidth="149.0" text="Customer name" />
+      <Button fx:id="menuButton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#takeBackToMenu" prefHeight="25.0" prefWidth="149.0" text="Back to main menu">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button fx:id="submitButton" layoutX="14.0" layoutY="471.0" mnemonicParsing="false" onAction="#createAppointment" prefHeight="25.0" prefWidth="174.0" style="-fx-font-weight: BOLD;" text="Create new appointment" />
+      <ComboBox fx:id="startTimeField" layoutX="14.0" layoutY="201.0" prefWidth="150.0" />
+      <ComboBox fx:id="endTimeField" layoutX="14.0" layoutY="257.0" prefWidth="150.0" />
+      <TextField fx:id="apptTitleField" layoutX="14.0" layoutY="83.0" prefHeight="25.0" prefWidth="174.0" />
+      <Label fx:id="apptTitleLabel" layoutX="14.0" layoutY="61.0" prefHeight="17.0" prefWidth="174.0" text="Appointment Title" />
+      <Label fx:id="urlLabel" layoutX="222.0" layoutY="116.0" prefHeight="17.0" prefWidth="149.0" text="URL" />
+      <TextField fx:id="urlField" layoutX="222.0" layoutY="143.0" />
+      <ComboBox fx:id="customerBox" layoutX="221.0" layoutY="83.0" prefWidth="150.0" />
+      <Button fx:id="updateApptButton" layoutX="500.0" layoutY="168.0" mnemonicParsing="false" onAction="#updateAppointment" text="Modify appointment info." />
+      <ComboBox fx:id="apptBox" layoutX="500.0" layoutY="83.0" prefHeight="25.0" prefWidth="235.0" />
+      <Label layoutX="500.0" layoutY="61.0" text="Select existing appointment to update" />
+      <Label layoutX="412.0" layoutY="125.0" text="-OR-" />
+      <Button fx:id="confirmButton" layoutX="500.0" layoutY="130.0" mnemonicParsing="false" onAction="#confirmAppointment" text="Confirm selection" />
+   </children>
+</AnchorPane>

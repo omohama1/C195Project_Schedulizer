@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="MenuPane" prefHeight="360.0" prefWidth="333.0" style="-fx-background-color: LIGHTBLUE;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195fxmlapplication.MenuController">
+   <children>
+      <Button fx:id="addCustomerButton" layoutX="107.0" layoutY="39.0" mnemonicParsing="false" onAction="#createNewCustomer" prefHeight="25.0" prefWidth="119.0" text="Add customer" />
+      <Button fx:id="setAppointmentButton" layoutX="107.0" layoutY="122.0" mnemonicParsing="false" onAction="#showCalendarStage" prefHeight="25.0" prefWidth="119.0" text="Set appointment" />
+      <Button fx:id="viewAppointmentsButton" layoutX="107.0" layoutY="168.0" mnemonicParsing="false" onAction="#showCalendarViewer" text="View appointments" />
+      <Button fx:id="generateReportsButton" layoutX="107.0" layoutY="220.0" mnemonicParsing="false" onAction="#generateReports" prefHeight="25.0" prefWidth="119.0" text="Generate reports" />
+      <Button fx:id="logoutButton" layoutX="107.0" layoutY="270.0" mnemonicParsing="false" onAction="#logout" prefHeight="25.0" prefWidth="119.0" text="Logout" />
+      <Button fx:id="updateCustButton" layoutX="107.0" layoutY="81.0" mnemonicParsing="false" onAction="#updateCustomer" prefHeight="25.0" prefWidth="119.0" text="Modify customer" />
+   </children>
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+</AnchorPane>

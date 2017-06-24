@@ -1,0 +1,1606 @@
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:25.414
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:25.414
+
+ Starting log for user: testView schedule button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:25.414
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:30.157
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:25.414
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:30.157
+
+ Starting log for user: testGenerate reports button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:25.414
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:30.157
+
+ Starting log for user: testGenerate reports button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:35.664
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:12.790
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:21.070
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:25.414
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:30.157
+
+ Starting log for user: testGenerate reports button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-16T22:23:35.664
+
+ Starting log for user: testUser: test has logged out at 2017-06-16T22:23:36.901
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:21:27.911
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:21:27.911
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:21:27.911
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:21:27.911
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:23:53.713
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:21:27.911
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T00:23:53.713
+
+ Starting log for user: testGenerate reports button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T16:44:12.056
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T16:44:12.056
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T20:04:07.453
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T20:04:07.453
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:14.414
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:14.414
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:14.414
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:18.620
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:14.414
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:18.620
+
+ Starting log for user: testView schedule button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:14.414
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:18.620
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:41.196
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:02.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:14.414
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:18.620
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-17T21:03:41.196
+
+ Starting log for user: testGenerate reports button clicked
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-18T21:23:50.326
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-18T21:23:50.326
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:24:31.390
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-18T21:23:50.326
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:24:31.390
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-18T21:23:50.326
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:24:31.390
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-18T21:23:50.326
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:24:31.390
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:27:22.719
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-18T21:23:50.326
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:24:31.390
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T21:27:22.719
+
+ Starting log for user: testUser: test has logged out at 2017-06-18T21:27:24.042
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:16:15.041
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:16:15.041
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:16:15.041
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:16:15.041
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:16:15.041
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testAppointment scheduled by user test
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:38:17.377
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:38:17.377
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:38:17.377
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:43:27.734
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:43:27.734
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:43:27.734
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:45:58.032
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:45:58.032
+
+ Starting log for user: testView schedule button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:45:58.032
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:46:05.068
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:45:58.032
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:46:05.068
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:45:58.032
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-18T23:46:05.068
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment scheduled by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:21:15.824
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:21:15.824
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:22:53.231
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:22:53.231
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:23:18.530
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:23:18.530
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:26:01.424
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:26:01.424
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:36:35.772
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:36:35.772
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:38:47.590
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:38:47.590
+
+ Starting log for user: testView schedule button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:38:47.590
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:38:54.549
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:38:47.590
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:38:54.549
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:41:47.911
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T01:41:47.911
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:05:23.369
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:05:23.369
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:06:52.267
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:06:52.267
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:08:48.391
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:08:48.391
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:09:34.334
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:09:34.334
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:10:40.186
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:10:40.186
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:12:30.403
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:12:30.403
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:13:11.597
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:13:11.597
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:16:11.364
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:16:11.364
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:17:17.996
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:17:17.996
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:17:53.842
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:17:53.842
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:18:44.314
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:18:44.314
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:20:51.396
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:20:51.396
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:21:42.654
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:21:42.654
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:22:04.329
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:22:04.329
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:22:35.126
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:23:40.321
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T10:23:40.321
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:03:40.210
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:03:40.210
+
+ Starting log for user: testView schedule button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:03:40.210
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:03:46.466
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:03:40.210
+
+ Starting log for user: testView schedule button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:03:46.466
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:04:37.214
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:04:37.214
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:05:12.197
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:05:12.197
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:10:23.070
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:10:23.070
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:15:12.253
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:15:12.253
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:15:12.253
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment updated by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:15:12.253
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment updated by user test
+
+ Starting log for user: testAppointment updated by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:24:22.132
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:24:22.132
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:24:22.132
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment updated by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:51:23.411
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:53:24.279
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:53:24.279
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:54:29.456
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:54:29.456
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:55:10.740
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:55:10.740
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:58:05.868
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:58:05.868
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:58:05.868
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:58:35.108
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:59:35.505
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T11:59:35.505
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:00:53.893
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:00:53.893
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:09:16.716
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:09:16.716
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:10:05.056
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:10:05.056
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:29:39.622
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:29:39.622
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:30:28.014
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:30:28.014
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:33:14.046
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:33:14.046
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:38:00.954
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:38:00.954
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:39:25.821
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:39:25.821
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:39:25.821
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:42:44.855
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:42:44.855
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:45:01.289
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:45:01.289
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:45:01.289
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:47:11.985
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:47:11.985
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:50:07.659
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:50:07.659
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:51:46.922
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:51:46.922
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:51:46.922
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T12:52:01.773
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T13:44:58.244
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T13:44:58.244
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T13:44:58.244
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotNew customer created by user CTRobot
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T13:44:58.244
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotNew customer created by user CTRobot
+
+ Starting log for user: CTRobotNew customer created by user CTRobot
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T13:55:31.592
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T13:55:31.592
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T13:55:31.592
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T14:01:30.946
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T14:01:30.946
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:11:47.496
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:11:47.496
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:11:47.496
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:12:09.730
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:12:21.107
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:12:21.107
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:16:33.461
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:16:33.461
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:16:33.461
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:21.489
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:21.489
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:29.669
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:21.489
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:29.669
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:36.245
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:21.489
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:29.669
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:36.245
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:19:42.656
+
+
+null
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:21.489
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:29.669
+
+ Starting log for user: nullnull has logged in at 2017-06-19T22:19:36.245
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:19:42.656
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:25:17.578
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:25:17.578
+
+ Starting log for user: testNew customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:25:17.578
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:25:23.247
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:25:17.578
+
+ Starting log for user: testNew customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:25:23.247
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:43:41.248
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:43:41.248
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:44:33.958
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:44:33.958
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:45:52.622
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:45:52.622
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:46:57.342
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:46:57.342
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:48:34.073
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:48:34.073
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:48:34.073
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment updated by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:48:34.073
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment updated by user test
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:50:31.769
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:48:34.073
+
+ Starting log for user: testSet appointment button clicked
+
+ Starting log for user: testAppointment updated by user test
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T22:50:31.769
+
+ Starting log for user: testSet appointment button clicked
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:04:45.779
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:04:45.779
+
+ Starting log for user: CTRobotSet appointment button clicked
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:04:45.779
+
+ Starting log for user: CTRobotSet appointment button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:05:10.186
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:04:45.779
+
+ Starting log for user: CTRobotSet appointment button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:05:10.186
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+
+null
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:02:44.687
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:03:21.797
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:04:45.779
+
+ Starting log for user: CTRobotSet appointment button clicked
+
+ Starting log for user: CTRobotThe user has returned to the menu 2017-06-19T23:05:10.186
+
+ Starting log for user: CTRobotUpdate customer button clicked
+
+ Starting log for user: CTRobotNew customer created by user CTRobot
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:11:03.368
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:11:03.368
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:20.699
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:20.699
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:20.699
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:34.552
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:20.699
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:34.552
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:20.699
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:34.552
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:13:43.137
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:14:57.465
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:14:57.465
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:23:21.017
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:23:21.017
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:23:21.017
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:23:21.017
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:32:04.837
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:32:04.837
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:32:04.837
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:39:13.680
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:41:49.189
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:41:49.189
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:42:20.502
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:42:20.502
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:42:20.502
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:45:30.034
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:45:30.034
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:45:30.034
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:49:12.984
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:49:12.984
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:49:12.984
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:52:45.660
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:52:45.660
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:52:45.660
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:52:45.660
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:55:25.006
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:55:25.006
+
+ Starting log for user: testUpdate customer button clicked
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:55:25.006
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:55:25.006
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+ Starting log for user: testNew customer created by user test
+
+
+null
+ Starting log for user: testThe user has returned to the menu 2017-06-19T23:55:25.006
+
+ Starting log for user: testUpdate customer button clicked
+
+ Starting log for user: testNew customer created by user test
+
+ Starting log for user: testNew customer created by user test
+
+ Starting log for user: testNew customer created by user test
+
